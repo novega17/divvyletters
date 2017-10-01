@@ -1,0 +1,20 @@
+trip_id,start_time,end_time,bikeid,tripduration,from_station_id,from_station_name,to_station_id,to_station_name,usertype,gender,birthyear
+13518905,3/31/2017 23:59,4/1/2017 0:13,5292,857,66,Clinton St & Lake St,171,May St & Cullerton St,Subscriber,Male,1989
+13518904,3/31/2017 23:56,4/1/2017 0:00,4408,236,199,Wabash Ave & Grand Ave,26,McClurg Ct & Illinois St,Subscriber,Male,1990
+13518903,3/31/2017 23:55,4/1/2017 0:01,696,348,520,Greenview Ave & Jarvis Ave,432,Clark St & Lunt Ave,Subscriber,Female,1979
+13518902,3/31/2017 23:54,3/31/2017 23:59,4915,288,110,Dearborn St & Erie St,142,McClurg Ct & Erie St,Subscriber,Male,1985
+13518901,3/31/2017 23:53,4/1/2017 0:00,4247,415,327,Sheffield Ave & Webster Ave,331,Halsted St & Blackhawk St (*),Subscriber,Female,1989
+13518900,3/31/2017 23:51,3/31/2017 23:55,3536,242,143,Sedgwick St & Webster Ave,289,Wells St & Concord Ln,Subscriber,Male,1988
+13518899,3/31/2017 23:51,3/31/2017 23:57,5111,361,81,Daley Center Plaza,41,Federal St & Polk St,Subscriber,Male,1987
+13518898,3/31/2017 23:50,3/31/2017 23:56,1579,354,56,Desplaines St & Kinzie St,77,Clinton St & Madison St,Subscriber,Male,1981
+13518897,3/31/2017 23:50,3/31/2017 23:55,3914,299,210,Ashland Ave & Division St,69,Damen Ave & Pierce Ave,Subscriber,Male,1992
+13518896,3/31/2017 23:49,4/1/2017 0:09,5455,1173,117,Wilton Ave & Belmont Ave,29,Noble St & Milwaukee Ave,Subscriber,Male,1989
+13518895,3/31/2017 23:49,4/1/2017 0:09,4282,1180,117,Wilton Ave & Belmont Ave,29,Noble St & Milwaukee Ave,Subscriber,Male,1989
+13518894,3/31/2017 23:49,3/31/2017 23:57,4768,504,227,Southport Ave & Waveland Ave,303,Broadway & Cornelia Ave,Subscriber,Male,1988
+13518893,3/31/2017 23:49,3/31/2017 23:53,2505,235,199,Wabash Ave & Grand Ave,26,McClurg Ct & Illinois St,Subscriber,Female,1990
+13518892,3/31/2017 23:48,3/31/2017 23:52,142,256,59,Wabash Ave & Roosevelt Rd,2,Buckingham Fountain,Subscriber,Male,1984
+13518891,3/31/2017 23:45,3/31/2017 23:55,1407,590,67,Sheffield Ave & Fullerton Ave,250,Ashland Ave & Wellington Ave,Subscriber,Male,1982
+13518890,3/31/2017 23:45,3/31/2017 23:48,3914,150,333,Ashland Ave & Blackhawk St,210,Ashland Ave & Division St,Subscriber,Male,1992
+13518889,3/31/2017 23:45,3/31/2017 23:52,4631,447,77,Clinton St & Madison St,175,Wells St & Polk St,Subscriber,Female,1979
+13518888,3/31/2017 23:45,3/31/2017 23:50,2790,329,90,Millennium Park,2,Buckingham Fountain,Subscriber,Male,1980
+13518887,3/31/2017 23:44,3/31/2017 23:48,5739,277,38,Clark St & Lake St,24,Fairbanks Ct & Grand Ave,Subscriber,Male,1990
